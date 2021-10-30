@@ -1,0 +1,62 @@
+[
+   {
+      "id": 1,
+      "Hostname": "",
+      "Type": "",
+      "Make": "Cisco",
+      "Model": "SRX110",
+      "Firmware": "",
+      "ManagementIP": "",
+      "ManagementVlan": ""
+   },
+   {
+      "id": 2,
+      "Hostname": "Christchurch_S264",
+      "Type": "Switch",
+      "Make": "Cisco",
+      "Model": "2960X",
+      "Firmware": 12.2,
+      "ManagementIP": "172.18.0.64",
+      "ManagementVlan": 100
+   },
+   {
+      "id": 3,
+      "Hostname": "Christchurch_S265",
+      "Type": "Switch",
+      "Make": "Cisco",
+      "Model": "2960X",
+      "Firmware": 15.4,
+      "ManagementIP": "172.18.0.65",
+      "ManagementVlan": 100
+   },
+   {
+      "id": 4,
+      "Hostname": "Christchurch_S267",
+      "Type": "Switch",
+      "Make": "Cisco",
+      "Model": "2960X",
+      "Firmware": 15.4,
+      "ManagementIP": "172.18.0.67",
+      "ManagementVlan": 100
+   },
+   {
+      "id": 5,
+      "Hostname": "Christchurch_S268",
+      "Type": "Switch",
+      "Make": "Cisco",
+      "Model": "2960X",
+      "Firmware": 15.4,
+      "ManagementIP": "172.18.0.68",
+      "ManagementVlan": 100
+   },
+   {
+      "id": 6,
+      "Hostname": "Christchurch_San",
+      "Type": "Switch",
+      "Make": "Cisco",
+      "Model": "2960X",
+      "Firmware": 14.7,
+      "ManagementIP": "172.18.0.3",
+      "ManagementVlan": 100
+   }
+]
