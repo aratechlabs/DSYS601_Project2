@@ -2,7 +2,7 @@
 Project 2 files
 
 In this repository are two files - an assessment2.py Python file and a network_equipment.json file.
-These files are the docker-based "application" you will deploy using a Jenkins build job, running on an Amazon EXC2 instance you created with Terraform, earlier.
+These files are the docker-based "application" you will deploy using a Jenkins build job, running on a local Docker instance you created with Terraform, earlier.
 Note that python3 and Flask will need to be installed - the http app will run on TCP port 5050.
 
 One you have deployed the app, you will need to create another Jenkins test job (and any testing code) to test the app deployed correctly.
