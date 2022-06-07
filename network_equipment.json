@@ -33,9 +33,9 @@
       "id": 4,
       "Hostname": "Christchurch_S267",
       "Type": "Switch",
-      "Make": "Cisco",
+      "Make": "Juniper",
       "Model": "2960X",
-      "Firmware": 15.4,
+      "Firmware": 11.1,
       "ManagementIP": "172.18.0.67",
       "ManagementVlan": 100
    },
