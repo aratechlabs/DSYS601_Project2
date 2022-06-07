@@ -2,8 +2,8 @@
 
 mkdir tempdir
 
-cp sample_app.py tempdir/.
-cp network_equipment.json tempdir/.
+cp -f sample_app.py tempdir/.
+cp -f network_equipment.json tempdir/.
 
 echo "FROM python" >> tempdir/Dockerfile
 echo "RUN pip install flask" >> tempdir/Dockerfile
