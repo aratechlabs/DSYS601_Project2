@@ -13,5 +13,5 @@ echo "EXPOSE 5050" >> tempdir/Dockerfile
 echo "CMD python /home/myapp/assessment_code.py &" >> tempdir/Dockerfile
 
 cd tempdir
-docker build -t assessmentcodeimage .    dssfdsaf
+docker build -t assessmentcodeimage .
 docker run -p 5050:5050 --name assessment2container assessmentcodeimage &
