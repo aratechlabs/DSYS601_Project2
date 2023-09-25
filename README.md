@@ -6,7 +6,7 @@ Note that python3 and Flask will need to be installed on your Linux VM - the htt
 
 You will then write a python script to interrogate your API to :
 1. List all equipment.
-2. Change Cisco switches with a firmware version of less than 12.2 to have a firmware version of 15.4
+2. Change Cisco switches with a firmware version of less than or equal to 12.2 to have a firmware version of 15.4
 3. Update the API with your changes.
 
 Have fun!
